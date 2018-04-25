@@ -5,7 +5,7 @@
       "email": "zhangm9@seattleu.edu"
     },
     {
-      "name": "Brielle Williamson",
+      "name": "Jiayang He",
       "email": "hek1027@hotmail.com"
     
     }
