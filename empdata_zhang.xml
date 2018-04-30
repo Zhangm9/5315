@@ -2,10 +2,37 @@
   <employees>
     <data>
       <name>Mengyao Zhang</name>
+      <position>Business Analyst</position>
+      <salary>$120,000</salary>
+      <city>Seattle</city>
       <email>zhangm9@seattleu.edu</email>
     </data>
     <data>
       <name>Jiayang He</name>
+      <position>Senior Engineer</position>
+      <salary>$210,000</salary>
+      <city>Seattle</city>
       <email>hek1027@hotmail.com</email>
+    </data>
+    <data>
+      <name>Qi Jiang</name>
+      <position>Accountant</position>
+      <salary>$90,000</salary>
+      <city>Portland</city>
+      <email>jiang1234@hotmail.com</email>
+    </data>
+    <data>
+      <name>Junfan Tian</name>
+      <position>Designer</position>
+      <salary>$250,000</salary>
+      <city>Boston</city>
+      <email>tianjun12@uw.edu</email>
+    </data>
+    <data>
+      <name>Mia Dunglas</name>
+      <position>Photographer</position>
+      <salary>$99,000</salary>
+      <city>Paris</city>
+      <email>miaww123@hotmail.com</email>
     </data>
   </employees>
