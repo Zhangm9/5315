@@ -11,21 +11,19 @@
         <thead>
             <tr>
                 <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
+                <th>Position</th>
                 <th>Salary</th>
+                <th>City</th>
+                <th>Email</th>
             </tr>
         </thead>
         <tfoot>
             <tr>
                 <th>Name</th>
-                <th>Designation</th>
-                <th>Office</th>
-                <th>Extension</th>
-                <th>Joining Date</th>
+                <th>Position</th>
                 <th>Salary</th>
+                <th>City</th>
+                <th>Email</th>
             </tr>
         </tfoot>
     </table>
@@ -38,14 +36,13 @@
     <script type="text/javascript">
     $(document).ready(function() {
         $('#empTable').dataTable({
-            "ajax": "empdata.js",
+            "ajax": "empdata_zhang.js",
             "columns": [
                 {"data": "name"},
-                {"data": "designation"},
-                {"data": "office"},
-                {"data": "extension"},
-                {"data": "joining_date"},
-                {"data": "salary"}
+                {"data": "position"},
+                {"data": "salary"},
+                {"data": "city"},
+                {"data": "email"}
             ]
         });   
     });
