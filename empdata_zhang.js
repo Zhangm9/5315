@@ -3,7 +3,7 @@
     {
       "name": "Mengyao Zhang",
       "position": "Buiness Analyst",
-      "salary": "$100,000",
+      "salary": "$120,000",
       "city": "Seattle",
       "email": "zhangm9@seattleu.edu"
     },
